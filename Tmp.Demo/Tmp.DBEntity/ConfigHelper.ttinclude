@@ -1,0 +1,31 @@
+﻿<#@ assembly name="System.Configuration.dll" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System.Configuration" #>
+
+<#+
+    public string ReadAppSettings(string key)
+    {
+        //获取项目下的config配置
+        string appPath = Path.Combine(this.Host.ResolveAssemblyReference("$(ProjectDir)"),"App.config");
+        var configMap = new ExeConfigurationFileMap { ExeConfigFilename = appPath };
+        Configuration econfig = System.Configuration.ConfigurationManager.OpenMappedExeConfiguration(configMap, ConfigurationUserLevel.None);
+        
+        //获取appSettings 节点
+        AppSettingsSection appSettingSection = (AppSettingsSection)econfig.GetSection("appSettings");
+        var val = appSettingSection.Settings[key] == null? "" : appSettingSection.Settings[key].Value;
+        return val;
+    }
+
+    public string ReadConnectionStrings(string key)
+    {
+        //获取项目下的config配置
+        string appPath = Path.Combine(this.Host.ResolveAssemblyReference("$(ProjectDir)"),"App.config");
+        var configMap = new ExeConfigurationFileMap { ExeConfigFilename = appPath };
+        Configuration econfig = System.Configuration.ConfigurationManager.OpenMappedExeConfiguration(configMap, ConfigurationUserLevel.None);
+        
+        //获取connectionStrings 节点
+        ConnectionStringsSection connSection = (ConnectionStringsSection)econfig.GetSection("connectionStrings");
+        var val = connSection.ConnectionStrings[key] == null? "" : connSection.ConnectionStrings[key].ConnectionString;
+        return val;
+    }
+#>

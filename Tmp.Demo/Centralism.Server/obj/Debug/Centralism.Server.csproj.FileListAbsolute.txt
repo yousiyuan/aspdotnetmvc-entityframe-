@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.pdb
+C:\projects\domo\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.dll
+C:\projects\domo\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.pdb
+C:\projects\domo\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.dll
+C:\projects\domo\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Centralism.Server\bin\Debug\Centralism.Server.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Centralism.Server\obj\Debug\Centralism.Server.pdb

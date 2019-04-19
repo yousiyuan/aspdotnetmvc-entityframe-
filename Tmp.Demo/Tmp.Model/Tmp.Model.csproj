@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D61F3F1-4B6A-471B-859F-8FFF0C1D670F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tmp.Model</RootNamespace>
+    <AssemblyName>Tmp.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\BaseEntity.cs" />
+    <Compile Include="Categories.cs" />
+    <Compile Include="CustomerCustomerDemo.cs" />
+    <Compile Include="CustomerDemographics.cs" />
+    <Compile Include="Customers.cs" />
+    <Compile Include="Employees.cs" />
+    <Compile Include="EmployeeTerritories.cs" />
+    <Compile Include="OrderDetails.cs" />
+    <Compile Include="Orders.cs" />
+    <Compile Include="pro.cs" />
+    <Compile Include="Products.cs" />
+    <Compile Include="Region.cs" />
+    <Compile Include="Search\SearchModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shippers.cs" />
+    <Compile Include="Suppliers.cs" />
+    <Compile Include="Territories.cs" />
+    <Compile Include="ViewsModel\Alphabetical_list_of_products.cs" />
+    <Compile Include="ViewsModel\Category_Sales_for_1997.cs" />
+    <Compile Include="ViewsModel\Current_Product_List.cs" />
+    <Compile Include="ViewsModel\Customer_and_Suppliers_by_City.cs" />
+    <Compile Include="ViewsModel\Invoices.cs" />
+    <Compile Include="ViewsModel\Orders_Qry.cs" />
+    <Compile Include="ViewsModel\Order_Details_Extended.cs" />
+    <Compile Include="ViewsModel\Order_Subtotals.cs" />
+    <Compile Include="ViewsModel\Products_Above_Average_Price.cs" />
+    <Compile Include="ViewsModel\Products_by_Category.cs" />
+    <Compile Include="ViewsModel\Product_Sales_for_1997.cs" />
+    <Compile Include="ViewsModel\Quarterly_Orders.cs" />
+    <Compile Include="ViewsModel\Sales_by_Category.cs" />
+    <Compile Include="ViewsModel\Sales_Totals_by_Amount.cs" />
+    <Compile Include="ViewsModel\Summary_of_Sales_by_Quarter.cs" />
+    <Compile Include="ViewsModel\Summary_of_Sales_by_Year.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Tmp.Common.Tools\Tmp.Common.Tools.csproj">
+      <Project>{08EC64E6-7120-45E5-8232-0739D1E05BC4}</Project>
+      <Name>Tmp.Common.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,20 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.dll
+C:\projects\domo\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.dll
+C:\projects\domo\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Model.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\obj\Debug\Tmp.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Common.Tools.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\bin\Debug\NPinyin.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Model\bin\Debug\Tmp.Common.Tools.pdb

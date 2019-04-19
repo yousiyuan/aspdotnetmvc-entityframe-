@@ -1,0 +1,29 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\projects\domo\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.dll
+C:\projects\domo\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.xml
+C:\projects\domo\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\projects\domo\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.dll
+C:\projects\domo\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Common.Infrastructure\obj\Debug\Tmp.Common.Infrastructure.csprojResolveAssemblyReference.cache

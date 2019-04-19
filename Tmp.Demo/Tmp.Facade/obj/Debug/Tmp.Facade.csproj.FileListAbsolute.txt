@@ -1,0 +1,84 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Tmp.Demo\Tmp.Facade\bin\Debug\NPinyin.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.csprojResolveAssemblyReference.cache
+C:\projects\domo\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\NPinyin.dll
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.pdb
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.xml
+C:\projects\domo\Tmp.Demo\Tmp.Facade\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\NPinyin.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.pdb
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.dll
+C:\Users\Administrator\Desktop\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\obj\Debug\Tmp.Facade.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Facade.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\NPinyin.dll
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Centralism.Client.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Infrastructure.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Common.Tools.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.DAL.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.FacadeInterface.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\Tmp.Model.pdb
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\MVC+EF\连接northwnd数据库\Tmp.Demo\Tmp.Facade\bin\Debug\zh-Hans\EntityFramework.resources.dll
